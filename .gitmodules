@@ -1,0 +1,3 @@
+[submodule "oswdlab"]
+	path = oswdlab
+	url = https://github.com/keerthinehaa/oswdlab.git
